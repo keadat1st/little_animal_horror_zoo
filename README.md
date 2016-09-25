@@ -32,7 +32,7 @@ And the rabbit should be able to ask for mercy just before it is killed, maybe i
 You here have some requirements.
 We skipped the Use case Diagram, the Use Cases and the System Sequence Diagrams for now, but a Domain Model for this game could look like this:
 
-Domain Model
+## Domain Model
 
 ![Domain Model](https://github.com/dat16j/little_animal_horror_zoo/raw/master/DomainModel.png)
 
@@ -42,4 +42,4 @@ You should do this in groups 2-3 persons, and you should upload your class diagr
 
 
 
-© KEA, clbo 21-09-2016
+<address style:"text-align: right">© KEA, clbo 21-09-2016</address>
