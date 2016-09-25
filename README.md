@@ -1,2 +1,4 @@
-# little_animal_horror_zoo
-Exercise solution: Little Animal Horror Zoo java files and class diagram
+# Exercise: Little Animal Horror Zoo
+Exercise solution: Little Animal Horror Zoo 
+* java files 
+* class diagram
