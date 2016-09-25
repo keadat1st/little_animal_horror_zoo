@@ -33,7 +33,7 @@ We skipped the Use case Diagram, the Use Cases and the System Sequence Diagrams 
 
 Domain Model
 
-
+![Domain Model](https://github.com/dat16j/little_animal_horror_zoo/raw/master/DomainModel.png)
 
 
 You should do this in groups 2-3 persons, and you should upload your class diagram, and your java files (all in a zip file) on fronter, before next class on monday.
