@@ -21,7 +21,7 @@ The game is at the moment not able to take any instructions from the person who 
 The game consists of 2 animals: a rabbit and a snake.
 The screen consists of coordinate system with an x and y axis, 10 on each axis. So the animals can be located by the number they are on. In this text based game you can not see where the animal are at a given time, but they should “tell” it to the console, every time they have moved, like this: 
 
-_“I am the nice rabbit, i am now standing on square 1, 3”_
+_“I am the nice rabbit, i am now standing on square 1, 3”_   
 _“I am the evil snake, i am now standing on the square 3, 10”_
 
 So both the rabbit and the snake should be able to move.
