@@ -13,10 +13,10 @@ public class Rabbit{
    
    public void speak()
    {
-      System.out.println("I am the " + species + ", i am now standing on square " + position());
+      System.out.println("I am the " + species + ", i am now standing on square " + tellPosition());
    }
    
-   public String position()
+   public String tellPosition()
    {
       return x + "," + y;
    }
