@@ -11,14 +11,14 @@ public class Rabbit{
       speak();
    }
    
-   public void speak()
-   {
-      System.out.println("I am the " + species + ", i am now standing on square " + tellPosition());
-   }
+//    public void speak()
+//    {
+//       System.out.println("I am the " + species + ", i am now standing on square " + tellPosition());
+//    }
    
-   public String tellPosition()
+   public void tellPosition()
    {
-      return x + "," + y;
+       System.out.println("I am the " + species + ", i am now standing on square " + x + ", " + y);
    }
 
    public void beeg()
