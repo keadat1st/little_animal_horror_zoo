@@ -8,17 +8,12 @@ public class Snake{
    {
       y = y-1;
       x = x-1; 
-      speak();
-   }
-   
-   public void speak()
-   {
-      System.out.println("I am the " + species + ", i am now standing on square " + tellPosition());
+      tellPosition();
    }
    
    public String tellPosition()
    { 
-      return x + "," + y;
+       System.out.println("I am the " + species + ", i am now standing on square " + x + ", " + y);
    }
    
    public void kill()

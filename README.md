@@ -30,9 +30,14 @@ _“I am the evil snake, i am now standing on the square 3, 10”_
 
 So both the rabbit and the snake should be able to *_move( )_*, 
 and they should both be able to *_tellPosition( )_*.   
-The _Snake_ should be able to *_kill( )_* the _Rabbit_ if they are on the same coordinates. 
+The _Snake_ should be able to *_kill( )_* the _Rabbit_ if they are on the same coordinates, and when  this is done it should say:    
+
+_"Ahhrrrrrr im eating you ha ha!"_    
+
 The _Rabbit_ should be able to *_beeg( )_* for its life, just before it is killed, (maybe if the _Snake_ is 
-on a neighboring square).
+on a neighboring square), and when  this is done it should say:    
+
+_"Nooooo Please don´t eat me!!"_
 
 You here have some requirements.
 We skipped the Use case Diagram, the Use Cases and the System Sequence Diagrams for now, but a 

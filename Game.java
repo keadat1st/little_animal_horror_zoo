@@ -11,7 +11,7 @@ public class Game{
          s.move();
       }
       
-      r.speak();
+      r.tellPosition();
       r.beeg();
       r.move();
       s.kill();

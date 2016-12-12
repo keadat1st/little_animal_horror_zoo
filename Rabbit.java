@@ -8,7 +8,7 @@ public class Rabbit{
    {
       y = y+1;
       x = x+1; 
-      speak();
+      tellPosition();
    }
    
 //    public void speak()
