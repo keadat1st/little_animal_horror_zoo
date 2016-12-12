@@ -28,10 +28,10 @@ but instead they should “tell” their position to the console, every time the
 _“I am the nice rabbit, i am now standing on square 1, 3”_   
 _“I am the evil snake, i am now standing on the square 3, 10”_
 
-So both the rabbit and the snake should be able to _move( )_, 
-and they should both be able to _tellPosition( )_.   
-The _Snake_ should be able to _kill( )_ the _Rabbit_ if they are on the same coordinates. 
-The _Rabbit_ should be able to _beeg( )_ for its life, just before it is killed, (maybe if the _Snake_ is 
+So both the rabbit and the snake should be able to *_move( )_*, 
+and they should both be able to *_tellPosition( )_*.   
+The _Snake_ should be able to *_kill( )_* the _Rabbit_ if they are on the same coordinates. 
+The _Rabbit_ should be able to *_beeg( )_* for its life, just before it is killed, (maybe if the _Snake_ is 
 on a neighboring square).
 
 You here have some requirements.
