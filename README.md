@@ -34,7 +34,7 @@ The _Snake_ should be able to **_kill( )_** the _Rabbit_ if they are on the same
 
 _"Ahhrrrrrr im eating you ha ha!"_    
 
-The _Rabbit_ should be able to *_beeg( )_* for its life, just before it is killed, (maybe if the _Snake_ is 
+The _Rabbit_ should be able to **_beeg( )_** for its life, just before it is killed, (maybe if the _Snake_ is 
 on a neighboring square), and when  this is done it should say:    
 
 _"Nooooo Please don´t eat me!!"_
