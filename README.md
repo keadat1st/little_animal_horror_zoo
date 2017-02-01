@@ -1,6 +1,4 @@
 # Exercise: Little Animal Horror Zoo
-# Exercise Description
-## Exercise: Little Animal Horror Zoo
 
 Imagine that you are designing a computer game. The game is text based, meaning that no graphics are involved, so only a text story printed in the console.
 
