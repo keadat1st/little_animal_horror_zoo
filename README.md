@@ -28,13 +28,14 @@ If you create multiple versions of use cases, domain model or class diagram, you
 Your hand in must be a repository on Github and you must upload a link to the repository on Fronter.
 
 ### To hand in to a repository on Github, do the following
-(This will be demonstrated in class)
-1. Create a new Github repository
-2. Navigate to the root folder of your project with the files you want to hand in.
-3. git init
-4. git commit -m "module 1 hand in"
-5. git remote add *link to your github repository*
-6. git push origin master
+(This will be demonstrated in class)  
+1. Create a new Github repository  
+2. Navigate to the root folder of your project with the files you want to hand in.  
+3. git init  
+4. git commit -m "module 1 hand in"  
+5. git remote add *link to your github repository*  
+6. git push origin master  
+
 
 
 <address style:"text-align: right">© KEA, clbo/chrk 01-02-2017</address>
