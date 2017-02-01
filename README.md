@@ -27,7 +27,7 @@ And they should both be able to tell about their position.
 The snake should be able to kill the rabbit if they are on the same coordinates. 
 And the rabbit should be able to ask for mercy just before it is killed, maybe if the snake is on a neighboring square.
 
-You should do this in groups of 3.
+You should do this in groups of approx. 3.
 
 ## You should hand in the following:
 * Your Java code
