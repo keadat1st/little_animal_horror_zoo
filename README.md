@@ -14,10 +14,10 @@
 
 Imagine that you are designing a computer game. The game is text based, meaning that no graphics are involved, so only a text story printed in the console.
 
-The game is at the moment not able to take any instructions from the person who plays the game (you), but it can only do what you will code it to do. You can think of it as a “Demo” game that shows how it could be played, but in fact are not playable yet.
+The game is at the moment not able to take any instructions from the person who plays the game (you), but it can only do what you will code it to do. You can think of it as a “Demo” game that shows how it could be played, but in fact is not playable yet.
 
 The game consists of 2 animals: a rabbit and a snake.
-The screen consists of coordinate system with an x and y axis, 10 on each axis. So the animals can be located by the number they are on. In this text based game you can not see where the animal are at a given time, but they should “tell” it to the console, every time they have moved, like this: 
+The screen consists of coordinate system with an x and y axis, 10 on each axis. So the animals can be located by the number they are on. In this text based game you can not see where the animals are at a given time, but they should “tell” it to the console, every time they have moved, like this: 
 
 _“I am the nice rabbit, i am now standing on square 1, 3”_   
 _“I am the evil snake, i am now standing on the square 3, 10”_
@@ -40,4 +40,4 @@ You should do this in groups 2-3 persons, and you should upload your class diagr
 
 
 
-<address style:"text-align: right">© KEA, clbo 21-09-2016</address>
+<address style:"text-align: right">© KEA, clbo/chrk 01-02-2017</address>
