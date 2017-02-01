@@ -40,5 +40,5 @@ Each group should do this, not each group member
 
 
 <div style:"text-align: right;">
-<address>© KEA, clbo/chrk 01-02-2017</address>
+© KEA, clbo/chrk 01-02-2017
 </div>
