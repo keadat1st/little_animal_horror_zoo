@@ -29,6 +29,8 @@ Your hand in must be a repository on Github and you must upload a link to the re
 
 ### To hand in to a repository on Github, do the following
 (This will be demonstrated in class)  
+Each group should do this, not each group member
+
 1. Create a new Github repository  
 2. Navigate to the root folder of your project with the files you want to hand in.  
 3. git init  
