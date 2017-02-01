@@ -1,4 +1,4 @@
-# Exercise: Little Animal Horror Zoo
+# Module 1 Mandatory assignment: Little Animal Horror Zoo
 
 Imagine that you are designing a computer game. The game is text based, meaning that no graphics are involved, so only a text story printed in the console.
 
