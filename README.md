@@ -40,4 +40,4 @@ Each group should do this, not each group member
 
 
 
-<address style:"text-align: right">© KEA, clbo/chrk 01-02-2017</address>
+<address style:"text-align: right;">© KEA, clbo/chrk 01-02-2017</address>
