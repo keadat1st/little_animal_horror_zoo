@@ -39,5 +39,6 @@ Each group should do this, not each group member
 6. git push origin master  
 
 
-
-<address style:"text-align: right;">© KEA, clbo/chrk 01-02-2017</address>
+<div style:"text-align: right;">
+<address>© KEA, clbo/chrk 01-02-2017</address>
+</div>
