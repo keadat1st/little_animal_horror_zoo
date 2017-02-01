@@ -27,17 +27,17 @@ And they should both be able to tell about their position.
 The snake should be able to kill the rabbit if they are on the same coordinates. 
 And the rabbit should be able to ask for mercy just before it is killed, maybe if the snake is on a neighboring square.
 
-You here have some requirements.
-We skipped the Use case Diagram, the Use Cases and the System Sequence Diagrams for now, but a Domain Model for this game could look like this:
+You should do this in groups of 3.
 
-## Domain Model
+## You should hand in the following:
+* Your Java code
+* Use cases
+* Domain Model
+* Class Diagram
+* Other, eg. comments/thoughts etc.
+If you create multiple versions of use cases, domain model or class diagram, you should hand in each version with a version number on them.
 
-![Domain Model](https://github.com/dat16j/little_animal_horror_zoo/raw/master/DomainModel.png)
-
-
-You should do this in groups 2-3 persons, and you should upload your class diagram, and your java files (all in a zip file) on fronter, before next class on monday.
-
-
+Your hand in must be a repository on Github and you must upload a link to the repository on Fronter.
 
 
 <address style:"text-align: right">© KEA, clbo/chrk 01-02-2017</address>
