@@ -17,6 +17,9 @@ And the rabbit should be able to ask for mercy just before it is killed, maybe i
 
 You should do this in groups of approx. 3.
 
+## Slides for module 1
+https://docs.google.com/presentation/d/1maRHMOX9NkhY2eCXg-Sz77Klrn6TsS7euGPzenncaX4/edit#slide=id.p
+
 ## You should hand in the following:
 * Your Java code
 * Use cases
