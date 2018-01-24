@@ -22,14 +22,17 @@ The game could look something like this:
 You should do this in groups of approx. 3.
 
 ## Slides for module 1
-https://docs.google.com/presentation/d/1maRHMOX9NkhY2eCXg-Sz77Klrn6TsS7euGPzenncaX4/edit#slide=id.p
+
+* [Slides](https://docs.google.com/presentation/d/1maRHMOX9NkhY2eCXg-Sz77Klrn6TsS7euGPzenncaX4/edit#slide=id.p)
 
 ## You should hand in the following:
+
 * Your Java code
 * Use cases
 * Domain Model
 * Class Diagram
 * Other, eg. comments/thoughts etc.
+
 If you create multiple versions of use cases, domain model or class diagram, you should hand in each version with a version number on them.
 
 Your hand in must be a repository on Github and you must upload a link to the repository on Fronter.
@@ -46,6 +49,6 @@ Each group should do this, not each group member
 6. git push origin master  
 
 
-<div>
+<div style="text-align: right">
 © KEA, clbo/chrk 01-02-2017
 </div>
