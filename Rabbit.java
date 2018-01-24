@@ -11,11 +11,6 @@ public class Rabbit{
       tellPosition();
    }
    
-//    public void speak()
-//    {
-//       System.out.println("I am the " + species + ", i am now standing on square " + tellPosition());
-//    }
-   
    public void tellPosition()
    {
        System.out.println("I am the " + species + ", i am now standing on square " + x + ", " + y);

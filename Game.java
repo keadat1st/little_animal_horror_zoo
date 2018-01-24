@@ -5,6 +5,9 @@ public class Game{
         Rabbit r = new Rabbit();
         Snake s = new Snake();
 
+        System.out.println();
+        System.out.println();
+
         r.move();
         s.move();
         
@@ -21,5 +24,7 @@ public class Game{
 
         s.move();
         s.kill();
+
+        System.out.println();System.out.println();System.out.println();
    }
 }
