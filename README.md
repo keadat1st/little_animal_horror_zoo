@@ -15,6 +15,10 @@ And they should both be able to tell about their position.
 The snake should be able to kill the rabbit if they are on the same coordinates. 
 And the rabbit should be able to ask for mercy just before it is killed, maybe if the snake is on a neighboring square.
 
+The game could look something like this: 
+
+![](https://github.com/dat18v2/little_animal_horror_zoo/blob/master/LittleAnimalHorror.png)
+
 You should do this in groups of approx. 3.
 
 ## Slides for module 1
