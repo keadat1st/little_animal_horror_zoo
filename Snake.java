@@ -11,7 +11,7 @@ public class Snake{
       tellPosition();
    }
    
-   public String tellPosition()
+   public void tellPosition()
    { 
        System.out.println("I am the " + species + ", i am now standing on square " + x + ", " + y);
    }
