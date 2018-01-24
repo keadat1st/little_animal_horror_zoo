@@ -17,7 +17,7 @@ And the rabbit should be able to ask for mercy just before it is killed, maybe i
 
 The game could look something like this: 
 
-![](https://github.com/dat18v2/little_animal_horror_zoo/blob/master/LittleAnimalHorror.png)
+![](LittleAnimalHorror.png)
 
 You should do this in groups of approx. 3.
 
