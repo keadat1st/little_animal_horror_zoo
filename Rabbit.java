@@ -1,13 +1,20 @@
 public class Rabbit{
 
-   String species = "Rabbit";
-   int y = 1;
-   int x = 1;
+   private String species = "Rabbit";
+   private int y = 1;
+   private int x = 1;
    
    public void move()
    {
-      y = y+1;
-      x = x+1; 
+
+       if (this.x <= 9 || this.y <=9) {
+            y = y+1;
+            x = x+1;
+        }
+        else {
+            System.out.println("Invalid move Rabbit");
+        }
+
       tellPosition();
    }
    

@@ -1,13 +1,19 @@
 public class Snake{
 
-   String species = "snake";
-   int y = 10;
-   int x = 10;
+   private String species = "snake";
+   private int y = 10;
+   private int x = 10;
    
    public void move()
    {
-      y = y-1;
-      x = x-1; 
+        if (this.x >= 0 || this.y >= 0) {
+            y = y-1;
+            x = x-1; 
+        }
+        else {
+            System.out.println("Invalid move");
+        }
+    
       tellPosition();
    }
    
