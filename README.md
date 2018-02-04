@@ -21,10 +21,6 @@ The game could look something like this:
 
 You should do this in groups of approx. 3.
 
-## Slides for module 1
-
-* [Slides](https://docs.google.com/presentation/d/1maRHMOX9NkhY2eCXg-Sz77Klrn6TsS7euGPzenncaX4/edit#slide=id.p)
-
 ## You should hand in the following:
 
 * Your Java code
