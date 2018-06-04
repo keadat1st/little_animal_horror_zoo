@@ -3,12 +3,10 @@
 ## Exercise solution: Little Animal Horror Zoo 
 * java files
   * [Game.java](Game.java)
-  * [Rabbit.java](https://github.com/dat18v2/little_animal_horror_zoo/tree/dev1/Rabbit.java) 
-  * [Snake.java](https://github.com/dat18v2/little_animal_horror_zoo/tree/dev1/Snake.java)
+  * [Rabbit.java](Rabbit.java) 
+  * [Snake.java](Snake.java)
 * class diagram
-  * [Class Diagram](https://github.com/dat18v2/little_animal_horror_zoo/tree/dev1/class_diagram_horror_zoo_game.png)
-
-* Jarls zoo (https://github.com/dat18v2/JarlsLittleAnimalHorrorZoo.git)
+  * [Class Diagram](class_diagram_horror_zoo_game.png)
 
 # Exercise Description
 ## Exercise: Little Animal Horror Zoo
