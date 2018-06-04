@@ -2,7 +2,7 @@
 
 ## Exercise solution: Little Animal Horror Zoo 
 * java files
-  * [Game.java](/tree/dev1/Game.java)
+  * [Game.java](Game.java)
   * [Rabbit.java](https://github.com/dat18v2/little_animal_horror_zoo/tree/dev1/Rabbit.java) 
   * [Snake.java](https://github.com/dat18v2/little_animal_horror_zoo/tree/dev1/Snake.java)
 * class diagram
