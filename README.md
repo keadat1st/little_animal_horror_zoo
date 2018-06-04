@@ -1,4 +1,4 @@
-# Exercise: Little Animal Horror Zoo
+# Module 1 Mandatory assignment: Little Animal Horror Zoo
 
 ## Exercise solution: Little Animal Horror Zoo 
 * java files
