@@ -37,14 +37,9 @@ Your hand in must be a repository on Github and you must upload a link to the re
 (This will be demonstrated in class)  
 Each group should do this, not each group member
 
-1. Create a new Github repository  
-2. Navigate to the root folder of your project with the files you want to hand in.  
-3. git init  
-4. git commit -m "module 1 hand in"  
-5. git remote add *link to your github repository*  
-6. git push origin master  
-
-
-<div style="text-align: right">
-© KEA, clbo/chrk 01-02-2017
-</div>
+1. Create a new Github repository
+2. Navigate to the root folder of your project with the files you want to hand in.
+3. git init
+4. git commit -m "module 1 hand in"
+5. git remote add *link to your github repository*
+6. git push origin master
